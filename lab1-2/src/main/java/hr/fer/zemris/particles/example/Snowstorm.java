@@ -77,7 +77,6 @@ public class Snowstorm implements GLEventListener, Runnable {
         animator.start();
     }
 
-    //--------------------------------------------------------------------
 
     private SnowParticleSystem snow;
     private Camera camera;
